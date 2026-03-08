@@ -1,54 +1,96 @@
-# prime-basket
+# 🛒 PrimeBasket
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+> Your one stop destination for seamless online shopping
 
-## Prerequisites
+![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-You will need the following things properly installed on your computer.
+## 🌐 Live Demo
+👉 [primebasket.vercel.app](https://primebasket.vercel.app)
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/) (with npm)
-- [Google Chrome](https://google.com/chrome/)
+## 📖 About
+PrimeBasket is a modern ecommerce web application
+built with Ember.js. It provides a seamless shopping
+experience with fast performance and clean UI.
 
-## Installation
+## ✨ Features
+- 🏠 Homepage with featured products
+- 🔍 Smart search and filtering
+- 🛍️ Product listing and detail pages
+- 🛒 Shopping cart management
+- 💳 Secure checkout flow
+- 🔐 User authentication (JWT)
+- 📱 Fully responsive design
+- ♿ WCAG accessibility standards
 
-- `git clone <repository-url>` this repository
-- `cd prime-basket`
-- `npm install`
+## 🛠️ Tech Stack
+- **Framework** — Ember.js (Octane)
+- **Styling** — CSS3 / TailwindCSS
+- **State Management** — Ember Services + @tracked
+- **API** — RESTful API / Ember Data
+- **Auth** — JWT Authentication
+- **Hosting** — Vercel
+- **Version Control** — Git + GitHub
 
-## Running / Development
+## 🚀 Getting Started
 
-- `npm run start`
-- Visit your app at [http://localhost:4200](http://localhost:4200).
-- Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
+### Prerequisites
+- Node.js >= 16
+- npm >= 8
+- Ember CLI
 
-### Code Generators
+### Installation
+\`\`\`bash
+# Clone the repository
+git clone https://github.com/yashaswipatil/prime_basket.git
 
-Make use of the many generators for code, try `npm exec ember help generate` for more details
+# Navigate to project
+cd prime_basket
 
-### Running Tests
+# Install dependencies
+npm install
 
-- `npm run test`
+# Start development server
+ember serve
+\`\`\`
 
-### Linting
+### Open in browser
+\`\`\`
+http://localhost:4200
+\`\`\`
 
-- `npm run lint`
-- `npm run lint:fix`
+## 📁 Project Structure
+\`\`\`
+prime_basket/
+├── app/
+│   ├── components/      # Reusable UI components
+│   ├── routes/          # Application routes
+│   ├── models/          # Ember Data models
+│   ├── services/        # Shared services
+│   ├── templates/       # Handlebars templates
+│   └── styles/          # CSS styles
+├── tests/               # Unit & integration tests
+├── public/              # Static assets
+└── ember-cli-build.js   # Build configuration
+\`\`\`
 
-### Building
+## 🌍 Deployment
+This project is deployed on **Vercel**.
 
-- `npm exec vite build --mode development` (development)
-- `npm run build` (production)
+\`\`\`bash
+# Build for production
+ember build --environment production
+\`\`\`
 
-### Deploying
+## 📸 Screenshots
+_Coming soon_
 
-Specify what it takes to deploy your app.
+## 👨‍💻 Author
+**Your Name**
+- GitHub: https://github.com/yashaswipatil
+- LinkedIn: https://www.linkedin.com/in/yashaswi-patil-66a4b3154/
 
-## Further Reading / Useful Links
-
-- [ember.js](https://emberjs.com/)
-- [Vite](https://vite.dev)
-- Development Browser Extensions
-  - [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  - [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+## 📄 License
+This project is open source and available under
+the [MIT License](LICENSE).
