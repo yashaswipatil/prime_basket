@@ -1,8 +1,7 @@
 import { pageTitle } from 'ember-page-title';
 
 <template>
-  {{pageTitle "PrimeBasket"}}
-
+  {{pageTitle "NotFound"}}
   {{outlet}}
-  <h1>My Application</h1>
+  404 not found! please try again!
 </template>

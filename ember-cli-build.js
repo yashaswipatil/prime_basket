@@ -9,6 +9,9 @@ module.exports = async function (defaults) {
 
   let app = new EmberApp(defaults, {
     // Add options here
+    sassOptions: {
+      extension : "scss",
+    }
   });
 
   setConfig(app, __dirname, {

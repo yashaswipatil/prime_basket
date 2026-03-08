@@ -1,8 +1,7 @@
 import { pageTitle } from 'ember-page-title';
 
 <template>
-  {{pageTitle "PrimeBasket"}}
-
+  {{pageTitle "Clothes"}}
   {{outlet}}
-  <h1>My Application</h1>
+  clothes works
 </template>
