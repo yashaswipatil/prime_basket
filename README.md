@@ -43,7 +43,7 @@ experience with fast performance and clean UI.
 ### Installation
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/prime_basket.git
+git clone https://github.com/yashaswipatil/prime_basket.git
 
 # Navigate to project
 cd prime_basket
