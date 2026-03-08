@@ -88,8 +88,8 @@ _Coming soon_
 
 ## 👨‍💻 Author
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/yashaswipatil
+- LinkedIn: https://www.linkedin.com/in/yashaswi-patil-66a4b3154/
 
 ## 📄 License
 This project is open source and available under
