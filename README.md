@@ -1,6 +1,6 @@
 # 🛒 PrimeBasket
 
-> Your one stop destination for seamless online shopping
+> Your one stop destination for seamless online shopping.
 
 ![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
